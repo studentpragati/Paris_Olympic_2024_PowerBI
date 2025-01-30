@@ -1,14 +1,20 @@
 Paris-2024-Olympic-Powerbi-Dashboard
+
 📊 Overview This repository contains a Power BI Dashboard built to provide an interactive and insightful analysis of the Paris Olympics. The dashboard helps users explore a variety of dimensions such as medals, athletes, countries, and historical trends of the Olympic Games.
+
 Key Pages in the Dashboard: Overview: A summary of the key metrics and highlights of the Paris Olympics. Visualizations to showcase total medals, participating countries, and athlete counts.
 
 Medals by Athletes: Detailed breakdown of medal distribution by individual athletes. Insights into the top-performing athletes and their achievements.
 
+
 Athletes: Explore athlete demographics, participation trends, and performance comparisons. Includes filters for gender, age, and event categories.
+
 
 Country: Medal tally by participating countries with country-wise performance analysis. Interactive visuals to compare countries based on total medals won, gold count, and other metrics.
 
+
 Historical Insights: Historical data analysis of the Olympics, highlighting trends over the years. Insights into records, milestones, and changes in event participation.
+
 
 Files Power BI File (.pbix): Contains the dashboard with all visualizations Data : Includes raw and cleaned data used for creating the dashboard. Screenshots : Contains images of the dashboard pages for a quick preview.
 
