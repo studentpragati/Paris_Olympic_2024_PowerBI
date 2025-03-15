@@ -1,5 +1,5 @@
 Paris-2024-Olympic-Powerbi-Dashboard 
-Project Introduction :-
+1.Project Introduction :-
 Start with a brief overview: “I developed a comprehensive Power BI dashboard to visualize data from the Paris Olympics 2024. This project aimed to provide interactive insights into athlete performances, medal tallies, and historical comparisons.”
 
 2. Objective and Motivation:-
@@ -14,11 +14,11 @@ Highlight what you used: “ I utilized Power BI to Connect,Clean and transform 
 6. Key Features of the Dashboard:-
 Walk through the main components:-
 
-Medals by Athletes: “A section to track individual athlete performances and medal counts.”
+   Medals by Athletes: “A section to track individual athlete performances and medal counts.”
 
-Athletes & Country: “Filterable views to compare athlete stats and country-wise medal distribution.”
+   Athletes & Country: “Filterable views to compare athlete stats and country-wise medal distribution.”
 
-Historical Comparison: “Interactive charts comparing current data with past Olympics.”
+   Historical Comparison: “Interactive charts comparing current data with past Olympics.”
 
 6. Challenges and Solutions:-
 Show your problem-solving skills: “One challenge was integrating large datasets without performance issues. I optimized queries and used Power BI’s performance analyzer tool to ensure smooth and responsive visuals.”
