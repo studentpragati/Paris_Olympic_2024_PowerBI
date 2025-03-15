@@ -1,7 +1,7 @@
 Paris-2024-Olympic-Powerbi-Dashboard 
 
 
- 1.Project Introduction :-
+   1.Project Introduction :-
 Start with a brief overview: “I developed a comprehensive Power BI dashboard to visualize data from the Paris Olympics 2024. This project aimed to provide interactive insights into athlete performances, medal tallies, and historical comparisons.”
 
 2. Objective and Motivation:-
