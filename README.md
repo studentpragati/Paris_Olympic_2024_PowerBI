@@ -11,7 +11,7 @@ Explain the 'why': “The main objective was to analyze and present Olympics dat
 Detail your process: “I collected data from Kaggle official Olympics dataset After extracting the raw data, I cleaned it using Power Query. This involved removing duplicates, handling missing values, and ensuring consistency.”
 
   4. Tool and Technologies:-
-Highlight what you used: “ I utilized Power BI to Connect,Clean and transform the data. key techniques include :- using Power query for data transformation. Create calculated columns and measure using DAX Designing interractive visuals and report.
+Highlight what you used: “ I utilized Power BI to Connect, Clean and transform the data. key techniques include :- using Power query for data transformation. Create calculated columns and measure using DAX Designing interractive visuals and report.
 
   6. Key Features of the Dashboard:-
 Walk through the main components:-
